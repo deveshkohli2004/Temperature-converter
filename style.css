@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(128, 11, 29);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+.container{
+    background-color:white;
+    height:400px;
+    width: 400px;
+    border: 1px;
+    border-radius: 15px;
+}
+h1{
+    margin: 17px 0px 0px 28px;
+}
+input{
+    margin-bottom:10px ;
+}
+form{
+    margin: 40px;
+}
+.dropdown{
+    display: flex;
+    padding: 10px 0px 10px ;
+    gap: 64px;
+}
+.msg{
+    margin-top: 20px;
+    
+}
+button{
+    background-color:rgb(71, 6, 101);
+    color: aliceblue;
+    font-size: 16px;
+    padding: 7px;
+    margin: 50px 50px 0px 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 19px;
+}
